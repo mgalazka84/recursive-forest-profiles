@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+figures/
+verification_results.json
+*.log
